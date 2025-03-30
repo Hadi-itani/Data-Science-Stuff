@@ -1,4 +1,4 @@
-# Jupyter Notebook Project Setup
+# Data Science Stuff
 
 This project is configured for Jupyter notebook development in Cursor.
 
@@ -39,4 +39,4 @@ python -m ipykernel install --user --name=venv
 
 - `notebooks/`: Directory for your Jupyter notebooks
 - `data/`: Directory for your datasets
-- `src/`: Directory for Python source code 
+- `src/`: Directory for Python source code
